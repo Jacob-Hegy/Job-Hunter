@@ -1,4 +1,6 @@
 # Job Hunter
 This is a personal project I made to scrape LinkedIn for jobs matching specified attributes, feed the job descriptions to ChatGPT's API, then generate keywords to determine desirable qualifications.
 
-Is it optimized? God no. I'd like to integrate multithreading into it to speed up the API calls, but it gets the job done and it served its purpose when I needed it. I'd like to revisit it in the future to convert it into a web app with Django as well as to make a few other tweaks here and there, but that's for future me to handle.
+Is it optimized? God no. I'd like to integrate multithreading into it to speed up the API calls, but it gets the job done.
+
+I would additionally like to add some more analysis to the Data Analysis jupyter notebook. I've got the soft skills done, but the hard skills still need to be fully analyzed like I want. I'll get around to it ideally tomorrow (September 24) provided work doesn't keep me super busy all day. We'll see, but I'll update it as soon as I can!
