@@ -8,3 +8,5 @@ I would additionally like to add some more analysis to the Data Analysis jupyter
 **qual.py**: the web scraper tasked with acquiring the necessary info from LinkedIn and Glassdoor
 
 **Data_Analysis.ipynb**: well the...data analysis 🤡
+
+**School Work**: folder containing past work that I've done in Anaconda while in university
